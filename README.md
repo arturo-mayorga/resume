@@ -1,11 +1,22 @@
 # Arturo Mayorga
 
 ## About
-Accomplished hands-on software development expert with extensive experience leading engineering teams to produce high-quality software and architecture across diverse business environments. High-energy engineer proficient in multiple programming languages, technologies, and operating systems, dedicated to driving technological innovation and efficiency.
+I build high-impact software that turns complex data into clear decisions—from NASA ground-systems and video-game servers to Bloomberg’s real-time analytics. Over 15 years I’ve alternated between senior IC and engineering-manager roles, leading teams when the mission needs scale and diving hands-on when a frontier technology (most recently generative AI) demands invention.
+* AI-driven analytics – architect of language-to-visualization and Text2BQL services that let Terminal users ask plain-English questions and receive charts or data at interactive rates.
+* Data-visualization pedigree – shipped Bloomberg’s next-gen charting platform, the SHOK macro-stress tool, and offline rendering used by global news desks.
+* Proven leadership – formed and guided multi-site teams, modernized legacy “big-iron” stacks to cloud-first, and mentored engineers who now lead core Bloomberg functions.
+
+I thrive where deep systems work meets product urgency—bridging research and production to deliver tools that analysts, investors, and scientists rely on every day.
 
 ## Experience
 
-### Software Engineering Manager, Bloomberg LP [Economics Core] (Aug 2021 - Present)
+### Senior Software Engineer, Bloomberg LP [Text2API / CodeGen] (Nov 2024 – Present)
+Architected and delivered AI-driven “language-to-analytics” services that let Terminal users pose plain-English questions and receive data-rich charts or BQL driven answers. Led the design of agentic pipelines—planning, execution, validation, and monitoring—across both NL2Vis (charting) and Text2BQL (data) streams, setting engineering standards for reliability, observability, and cost efficiency.  
+* Transformed a research NL2Vis prototype into a production-grade microservice, significantly increasing peak throughput and reducing latency, which supported the first external pilot rollout.  
+* Built multi-stage planners that convert user intent into optimized BQL queries, paving the way for integration with Bloomberg’s flagship analytics workflows.  
+* Introduced unified dashboards, predictive quota controls, and a streamlined run-data schema, preventing production incidents and lowering cloud spend.  
+
+### Software Engineering Manager, Bloomberg LP [Economics Core] (Aug 2021 - Nov 2024)
 Led the formation of a team to take ownership of all core technical assets at Bloomberg within the area of Economics. Pioneered the migration to a cloud-first architecture and optimized data generation workflows. Collaborated closely with business experts to balance technological needs with product improvements.
 * Delivered the groundbreaking SHOK function on the Bloomberg Terminal, empowering investment professionals to manage risk and make informed decisions. This solution has appeared in popular TV shows like Billions and Equity.
 * Guided the team in setting the technical direction to modernize transformation engines, selecting an in-memory OLAP database that reduced compute time by several orders of magnitude.
